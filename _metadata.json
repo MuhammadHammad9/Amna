@@ -1,0 +1,109 @@
+{
+  "hash": "9bf9fb17",
+  "configHash": "7caba07a",
+  "lockfileHash": "fe4a726a",
+  "browserHash": "3f2577c5",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "6327546d",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "62cd6bb9",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8f062807",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "49e1ef8d",
+      "needsInterop": true
+    },
+    "@google/generative-ai": {
+      "src": "../../@google/generative-ai/dist/index.mjs",
+      "file": "@google_generative-ai.js",
+      "fileHash": "43795aba",
+      "needsInterop": false
+    },
+    "@supabase/supabase-js": {
+      "src": "../../@supabase/supabase-js/dist/index.mjs",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "1984c976",
+      "needsInterop": false
+    },
+    "canvas-confetti": {
+      "src": "../../canvas-confetti/dist/confetti.module.mjs",
+      "file": "canvas-confetti.js",
+      "fileHash": "eb13d9d5",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "d613d508",
+      "needsInterop": false
+    },
+    "leaflet": {
+      "src": "../../leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "b403b21c",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "b1edfd6c",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1b8a661f",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "1ad68951",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "cf277177",
+      "needsInterop": false
+    },
+    "react-youtube": {
+      "src": "../../react-youtube/dist/YouTube.esm.js",
+      "file": "react-youtube.js",
+      "fileHash": "12d01c87",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-QAKWN62Z": {
+      "file": "chunk-QAKWN62Z.js"
+    },
+    "chunk-IWOBEF4E": {
+      "file": "chunk-IWOBEF4E.js"
+    },
+    "chunk-7HXCKB66": {
+      "file": "chunk-7HXCKB66.js"
+    },
+    "chunk-RY7GF66K": {
+      "file": "chunk-RY7GF66K.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
